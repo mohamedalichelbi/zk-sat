@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+dimacs = "0.2.0"
 methods = { path = "../methods" }
 rand = "0.8.5"
 risc0-zkvm = { version = "0.15.3" }
